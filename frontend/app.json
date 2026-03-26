@@ -1,0 +1,1 @@
+{ "expo": { "name": "MacroTracker", "slug": "MacroTracker", "version": "1.0.0", "sdkVersion": "43.0.0", "platforms": ["ios", "android"], "updates": { "fallbackToCacheTimeout": 0 }, "assetBundlePatterns": ["**/*"], "ios": { "bundleIdentifier": "com.smers13.macrotracker" }, "android": { "package": "com.smers13.macrotracker" } }}
